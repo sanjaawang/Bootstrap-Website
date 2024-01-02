@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+.navbar-toggler{
+     border: none;
+}
+.offcanvas-body ul li a{
+    color: white;
+}
+.offcanvas-body ul li a:hover{
+    color: white;
+}
+.container{
+    margin-top: 70px;
+}
+.col img{
+    width: 500px;
+}
+.p{
+    font-style: italic;
+}
+.card h5{
+    text-align: center;
+}
+.container{
+    overflow: hidden;
+}
+
+
+footer p{
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 20px;
+    padding: 15px;
+}
